@@ -1,6 +1,8 @@
 # Optimization_of_litter_size_in_polar_bears
 Marwan Naciri, Jon Aars, Magnus Andersen, Marie-Anne Blanchet, Andrew E. Derocher, Marlène Gamelon, Øystein Wiig, and Sarah Cubaynes. 2025. Data and code for "Offspring number, size, and survival: state-dependent optimization of litter size in a long-lived capital breeder".
 
+[![DOI](https://zenodo.org/badge/1018603336.svg)](https://doi.org/10.5281/zenodo.15870511)
+
 The Rmardown file PA_CR.Rmd contains the full workflow of the analysis presented in Naciri et al. (2025). Specifically, the workflow involves:
 - building the model in a Bayesian framework
 - generating the input data and initial values for the model
